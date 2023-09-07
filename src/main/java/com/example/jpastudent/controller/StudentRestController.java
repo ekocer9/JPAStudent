@@ -75,4 +75,6 @@ public class StudentRestController {
         }
     }
 
+    String name;
+
 }
